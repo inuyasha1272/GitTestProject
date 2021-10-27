@@ -2,3 +2,5 @@ GitTestProject
 ==============
 
 GitTestProject
+
+init
